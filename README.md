@@ -8,6 +8,10 @@
 3. /breeds - показать список доступных пород
 4. /memes_start - показать варианты шаблонов для создания мема. Далее пользователь может ввести любой текст и после отправки Бот пришлет готовую картинку.
  
+<p align="center">
+  <img src="second.jpg" width="350" title="example">
+  <img src="first.jpg" width="350" alt="first">
+</p>
 
 ![](first.jpg) ![](second.jpg)
 
