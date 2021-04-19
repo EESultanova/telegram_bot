@@ -13,8 +13,6 @@
   <img src="first.jpg" width="350" alt="first">
 </p>
 
-![](first.jpg) ![](second.jpg)
-
 ## Запуск
 
 ```bash
